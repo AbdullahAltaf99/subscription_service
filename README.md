@@ -1,5 +1,8 @@
 # subscription_service
-# Folder Struture
+
+## Folder Structure
+
+```text
 lib/
 │
 ├── core/
@@ -23,3 +26,4 @@ lib/
 │   │
 │   └── bindings/
 │       └── initial_binding.dart
+```
