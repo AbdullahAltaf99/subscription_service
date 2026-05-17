@@ -1,0 +1,3 @@
+GetMaterialApp(
+  initialBinding: InitialBinding(),
+)
